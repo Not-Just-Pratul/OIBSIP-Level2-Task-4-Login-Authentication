@@ -18,8 +18,14 @@ The project includes two HTML pages:
 ## How to Run
 
 1. Open the repository folder in your browser.
-2. Launch [Task 7/login.html](Task%207/login.html) to view the login form.
+2. Launch [Task 7/index.html](Task%207/index.html) to view the login form.
 3. Open [Task 7/register.html](Task%207/register.html) to view the registration form.
+
+## Deploying to Netlify
+
+1. Connect this repository to Netlify.
+2. Set the build publish directory to `Task 7`.
+3. No build command is required for this static site.
 
 ## Notes
 
