@@ -1,32 +1,39 @@
 # Login Authentication
 
-This repository contains a simple front-end login and registration interface for a student authentication form.
+A static front-end project demonstrating a student login and registration interface with clean form design and navigation.
+
+## Live Demo
+
+- Access the live deployment at: https://my-login-authentication.netlify.app/
 
 ## Project Overview
 
-The project includes two HTML pages:
+This repository contains a simple authentication UI built with HTML and CSS.
 
-- [Task 7/login.html](Task%207/login.html): A login form with fields for ERP ID and password.
-- [Task 7/register.html](Task%207/register.html): A registration form with fields for student details, email, phone number, Aadhaar details, department, and password confirmation.
+The project includes two pages:
+
+- [Task 7/index.html](Task%207/index.html): A login form with fields for ERP ID and password.
+- [Task 7/register.html](Task%207/register.html): A registration form with fields for student details, email, phone number, Aadhaar information, department selection, and password confirmation.
 
 ## Features
 
-- Clean and styled form layout using HTML and CSS
-- Login and registration page navigation
-- Basic input styling for text, password, email, and telephone fields
+- Responsive and polished form layout using HTML and CSS
+- Seamless navigation between login and registration pages
+- User-friendly input styling for text, email, password, and telephone fields
 
-## How to Run
+## Usage
 
 1. Open the repository folder in your browser.
-2. Launch [Task 7/index.html](Task%207/index.html) to view the login form.
-3. Open [Task 7/register.html](Task%207/register.html) to view the registration form.
+2. Load [Task 7/index.html](Task%207/index.html) to access the login page.
+3. Load [Task 7/register.html](Task%207/register.html) to access the registration page.
 
-## Deploying to Netlify
+## Deployment
 
-1. Connect this repository to Netlify.
-2. Set the build publish directory to `Task 7`.
-3. No build command is required for this static site.
+This is a static site deployable on Netlify or any static hosting provider.
+
+- Publish directory: `Task 7`
+- Build command: none required
 
 ## Notes
 
-This is a static frontend project and does not include backend authentication or database storage.
+This project is a front-end prototype and does not include backend authentication or persistent database storage.
